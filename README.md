@@ -6,12 +6,16 @@
 
 Python3 должен быть уже установлен. Затем используйте pip (или pip3, есть конфликт с Python2) для установки зависимостей:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Как запустить
 Из командной строки запустите файл `main.py` с аргументом ссылкой.   
 Пример:
-```py main.py https://www.google.com/```
+```
+py main.py https://www.google.com/
+```
 
 ### Цель проекта
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков dvmn.org.
